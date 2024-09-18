@@ -1,0 +1,28 @@
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\bin\Debug\18 september 2024 tugas database.exe.config
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\bin\Debug\18 september 2024 tugas database.exe
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\bin\Debug\18 september 2024 tugas database.pdb
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\bin\Debug\MySql.Data.dll
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\bin\Debug\MySql.Web.dll
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\bin\Debug\ZstdNet.dll
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\bin\Debug\System.Buffers.dll
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\bin\Debug\MySql.Data.xml
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\bin\Debug\MySql.Web.xml
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\obj\Debug\18 september 2024 tugas database.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\obj\Debug\18 september 2024 tugas database.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\obj\Debug\18 september 2024 tugas database.exe.config
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\obj\Debug\_18_september_2024_tugas_database.Form1.resources
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\obj\Debug\_18_september_2024_tugas_database.homecs.resources
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\obj\Debug\_18_september_2024_tugas_database.Properties.Resources.resources
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\obj\Debug\18 september 2024 tugas database.csproj.GenerateResource.cache
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\obj\Debug\18 september 2024 tugas database.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\obj\Debug\18 septe.42FDA03A.Up2Date
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\obj\Debug\18 september 2024 tugas database.exe
+C:\Users\HP\Documents\visual progamming\18 september 2024 tugas database\18 september 2024 tugas database\obj\Debug\18 september 2024 tugas database.pdb
